@@ -51,11 +51,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1116290781184
-    m_Localized: Vena superior
+    m_Localized: Vena cava superior
     m_Metadata:
       m_Items: []
   - m_Id: 1148024885248
-    m_Localized: Vena Inferior
+    m_Localized: Vena cava inferior
     m_Metadata:
       m_Items: []
   - m_Id: 1150528884736
@@ -67,15 +67,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1287242223616
-    m_Localized: "Vena a\xF2rtica esquerra"
+    m_Localized: "Art\xE8ria subcl\xE0via esquerre"
     m_Metadata:
       m_Items: []
   - m_Id: 1322470182912
-    m_Localized: "Vena a\xF2rtica mitjana"
+    m_Localized: "Art\xE8ria car\xF2tide esquerre"
     m_Metadata:
       m_Items: []
   - m_Id: 1348055437312
-    m_Localized: "Vena a\xF2rtica dreta"
+    m_Localized: "Tronc braquiocef\xE0lic"
     m_Metadata:
       m_Items: []
   references:

@@ -51,11 +51,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1116290781184
-    m_Localized: Superior vein
+    m_Localized: Superior vena cava
     m_Metadata:
       m_Items: []
   - m_Id: 1148024885248
-    m_Localized: Inferior vein
+    m_Localized: Inferior vena cava
     m_Metadata:
       m_Items: []
   - m_Id: 1150528884736
@@ -67,15 +67,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1287242223616
-    m_Localized: Left aortic vein
+    m_Localized: Left subclavian artery
     m_Metadata:
       m_Items: []
   - m_Id: 1322470182912
-    m_Localized: Middle aortic vein
+    m_Localized: Left common carotid artery
     m_Metadata:
       m_Items: []
   - m_Id: 1348055437312
-    m_Localized: Right aortic vein
+    m_Localized: Brachiocephalic artery
     m_Metadata:
       m_Items: []
   references:

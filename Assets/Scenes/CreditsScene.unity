@@ -496,13 +496,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   photoImage: {fileID: 1272505232}
   photos:
+  - {fileID: 21300000, guid: e7baa7fdb7b9422498931e92c83198a4, type: 3}
   - {fileID: 21300000, guid: dcca9ae710b309547be77bb17344b93a, type: 3}
-  - {fileID: 21300000, guid: e678630523fe84144954620d4f7a41c4, type: 3}
+  - {fileID: 21300000, guid: f3511167fcefe7241828967785aef965, type: 3}
   - {fileID: 21300000, guid: 037bc0b163d23d94d99d3fd81df2e1eb, type: 3}
   - {fileID: 21300000, guid: 40174aed4666609479f2a7cdc4b69d41, type: 3}
   - {fileID: 21300000, guid: 508492e00c33ae84b9739ba0b15d9f69, type: 3}
-  - {fileID: 21300000, guid: e722528a01301c8479ae62e934405dc6, type: 3}
-  - {fileID: 21300000, guid: 63151ab12accf574b89ed138c454e142, type: 3}
+  - {fileID: 21300000, guid: bb9b894248572c445bdd21d8b4fd310e, type: 3}
   - {fileID: 21300000, guid: 54220b7ec9c1bc34695d3a80b36f1359, type: 3}
   fadeTime: 1
   stayTime: 2
@@ -622,6 +622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   defaultButton: {fileID: 56092836}
+  scale: 1
 --- !u!1 &621440329
 GameObject:
   m_ObjectHideFlags: 0
@@ -1267,7 +1268,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 0}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
